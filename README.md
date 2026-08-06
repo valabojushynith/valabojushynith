@@ -31,5 +31,13 @@ B.Tech Grad | Aspiring Fitness Entusiast | Web Developer.
   - Basic web development (python + HTML + CSS + OOPS + Django)
   - Fitness-related tech ideas or health-tech projects
   - Learning and growing in a real-world development environment
+---
+## Connect Me With
+- GitHub:
+  [@valabojushynith](
+- Email:
+  valabojushynith@gmail.com
+- LinkedIn:
+   [linkedin.com/in/valabojushynith310323/](https://www.linkedin.com/in/valabojushynith310323/)
 
 

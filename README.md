@@ -12,7 +12,7 @@ B.Tech Grad | Aspiring Fitness Entusiast | Web Developer.
 - Indian current affairs and tech trends
 - Travel within India and discovering new places
 ---
-## Web Development Skills
+## Web Development Skills🕸️
 **Languages & Basics**
 - Python
 - HTML

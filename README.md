@@ -1,16 +1,35 @@
-## Hi there 👋
+## Valaboju Shynith 👋
+B.Tech Grad | Aspiring Fitness Entusiast | Web Developer.
+--
+## About Me
+- B.Tech Graduated(2026)
+- 4+ Years into my personal fitness journey
+- Passionate about fitness coaching, programming, and tech
+---
+## Fitness & Hobbies
+- Exploring nutrition and supplement protocols
+- Formula 1 & motorsports
+- Indian current affairs and tech trends
+- Travel within India and discovering new places
+---
+## Web Development Skills
+**Languages & Basics**
+- Python
+- HTML
+- CSS
+- OOPS Concepts
+- Django
+- ReactJS
 
-<!--
-**valabojushynith/valabojushynith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tools & Workflow**
+- VS Code
+- Git & GitHub
+- Basic debugging and browser dev tools
+---
+## Currently Looking For
+- Opportunities (intership, projects, or entry-level roles) where I can contribute my skills in:
+  - Basic web development (python + HTML + CSS + OOPS + Django)
+  - Fitness-related tech ideas or health-tech projects
+  - Learning and growing in a real-world development environment
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

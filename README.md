@@ -19,6 +19,7 @@ B.Tech Grad | Aspiring Fitness Entusiast | Web Developer.
 - CSS
 - OOPS Concepts
 - Django
+- FastAPI
 - ReactJS
 - MySQL
 - SQLite
